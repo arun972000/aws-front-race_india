@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import AdminNavbar from "./Admin Navbar/Navbar";
 import Dashboard from "./Dashboard/Dashboard";
-import "./sidebar.css"
+import "./sideBar.css"
 import SideBar from "./Sidebar";
 
 
