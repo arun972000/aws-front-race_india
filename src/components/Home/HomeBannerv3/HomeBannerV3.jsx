@@ -1,5 +1,5 @@
 import { Row, Col } from "react-bootstrap";
-import "./HomeBannerV3.css";
+import "./HomeBannerv3.css";
 import SideBanner from "./SideBannerv3";
 import SliderImage from "../Homebanner/Slider";
 import axios from "axios";
