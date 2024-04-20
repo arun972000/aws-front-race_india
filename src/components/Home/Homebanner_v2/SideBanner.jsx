@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import "./HomeBannerV2.css";
+import "./HomeBannerv2.css";
 import { Col } from "react-bootstrap";
 
 const SideBanner = ({ item }) => {

@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { Link } from "react-router-dom";
-import "./HomeBannerV3.css";
+import "./HomeBannerv3.css";
 import { Col } from "react-bootstrap";
 
 const SideBannerv3 = ({ item }) => {
